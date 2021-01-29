@@ -4,8 +4,8 @@ public class Hello {
         System.out.println("Hello Word B23");
         System.out.println("B21 future SDET learning Git");
 
-        //watching TV
-        //movie  not finish
+        // movie on the phone 10 minutes
+
     }
 
 }
